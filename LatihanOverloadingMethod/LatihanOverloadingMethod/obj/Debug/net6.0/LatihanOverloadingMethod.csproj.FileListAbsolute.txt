@@ -1,0 +1,15 @@
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.exe
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.deps.json
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.runtimeconfig.json
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.dll
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.pdb
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.csproj.AssemblyReference.cache
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.AssemblyInfoInputs.cache
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.AssemblyInfo.cs
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.csproj.CoreCompileInputs.cache
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.dll
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\refint\LatihanOverloadingMethod.dll
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.pdb
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.genruntimeconfig.cache
+D:\kuliah_semes2\pemrogaman\LatihanMethod\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\ref\LatihanOverloadingMethod.dll
